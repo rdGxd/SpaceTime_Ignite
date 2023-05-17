@@ -49,9 +49,9 @@ export async function memoriesRoutes(app: FastifyInstance) {
         content,
         coverUrl,
         isPublic,
-        userId: '5ac8562f-5c67-49da-8319-5646cf8b8b6d',
+        userId: "d20156d0-cca7-42af-a764-10962d2f455a",
       },
-    })
+    });
 
     return memory
   })
