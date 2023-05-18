@@ -11,18 +11,18 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 💻 Tecnologias Usadas
 
 ### Back-end
-  Node.js
-  TypeScript + TSX
-  Fastify (Framework)
-  ESLint
-  Prisma + SQLite
+  Node.js <br/>
+  TypeScript + TSX <br/>
+  Fastify (Framework) <br/>
+  ESLint <br/>
+  Prisma + SQLite <br/>
 
 ### Front-end
-  React + Next.js
-  TailwindCSS
-  ESLint + Prettier Tailwind
+  React + Next.js <br/>
+  TailwindCSS <br/>
+  ESLint + Prettier Tailwind <br/>
 
 ### Mobile
-  Expo
-  NativeWind
-  ESLint + Prettier Tailwind
+  Expo <br/>
+  NativeWind <br/>
+  ESLint + Prettier Tailwind <br/>
