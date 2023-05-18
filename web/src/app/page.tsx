@@ -1,7 +1,6 @@
-import { User } from 'lucide-react'
-
-import nlwLogo from '../assets/nlw-spacetime-logo.svg'
-import Image from 'next/image'
+import { User } from "lucide-react";
+import nlwLogo from "../assets/nlw-spacetime-logo.svg";
+import Image from "next/image";
 
 export default function Home() {
   return (
@@ -53,7 +52,7 @@ export default function Home() {
 
         {/* Copyright */}
         <div className="text-sm leading-relaxed text-gray-200">
-          Feito com 💜 no NLW da{' '}
+          Feito com 💜 no NLW da{" "}
           <a
             target="_blank"
             rel="noreferrer"
@@ -69,7 +68,7 @@ export default function Home() {
       <div className="flex flex-col bg-[url(../assets/bg-stars.svg)] bg-cover p-16">
         <div className="flex flex-1 items-center justify-center">
           <p className="w-[360px] text-center leading-relaxed">
-            Você ainda não registrou nenhuma lembrança, começa{' '}
+            Você ainda não registrou nenhuma lembrança, começa{" "}
             <a href="" className="underline hover:text-gray-50">
               criar agora
             </a>
@@ -78,5 +77,5 @@ export default function Home() {
         </div>
       </div>
     </main>
-  )
+  );
 }
