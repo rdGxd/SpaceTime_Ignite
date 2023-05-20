@@ -31,7 +31,6 @@ export default function RootLayout({ children }: { children: ReactNode }) {
       <body
         className={`${roboto.variable} ${baiJamjuree.variable} bg-gray-900 font-sans text-gray-100`}
       >
-
         <main className="grid min-h-screen grid-cols-2">
           {/* Left */}
           <div className="relative flex flex-col items-start justify-between overflow-hidden border-r border-white/10 bg-[url(../assets/bg-stars.svg)] bg-cover px-28 py-16">
@@ -44,7 +43,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
             <Copyright />
           </div>
           {/* Right */}
-          <div className="flex flex-col bg-[url(../assets/bg-stars.svg)] bg-cover p-16">
+          <div className="flex max-h-screen flex-col overflow-y-scroll bg-[url(../assets/bg-stars.svg)] bg-cover ">
             {children}
           </div>
         </main>

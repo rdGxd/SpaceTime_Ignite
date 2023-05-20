@@ -7,27 +7,39 @@ Aplicação de recordação de memórias, onde o usuário poderá adicionar à u
 ## 💻 Tecnologias Usadas
 
 ### Back-end
-  Node.js <br/>
-  TypeScript + TSX <br/>
-  Fastify (Framework) <br/>
-  ESLint <br/>
-  Prisma + SQLite <br/>
+
+Node.js <br/>
+TypeScript + TSX <br/>
+Fastify (Framework) <br/>
+ESLint <br/>
+Prisma + SQLite <br/>
 
 ### Front-end
-  React + Next.js <br/>
-  TailwindCSS <br/>
-  ESLint + Prettier Tailwind <br/>
+
+React + Next.js <br/>
+TailwindCSS <br/>
+ESLint + Prettier Tailwind <br/>
 
 ### Mobile
-  Expo <br/>
-  NativeWind <br/>
-  ESLint + Prettier Tailwind <br/>
+
+Expo <br/>
+NativeWind <br/>
+ESLint + Prettier Tailwind <br/>
+
+---
+
+## Próximos passos (Desafios)
+
+### Edição da memória <br/>
+
+### Link para compartilhar memória <br/>
+
+### Selecionar data da memória <br/>
+
+### Layout responsivo
 
 ---
 
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-
-
