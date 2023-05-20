@@ -11,20 +11,17 @@ Aplicação de recordação de memórias, onde o usuário poderá adicionar à u
 Node.js <br/>
 TypeScript + TSX <br/>
 Fastify (Framework) <br/>
-ESLint <br/>
 Prisma + SQLite <br/>
 
 ### Front-end
 
 React + Next.js <br/>
 TailwindCSS <br/>
-ESLint + Prettier Tailwind <br/>
 
 ### Mobile
 
 Expo <br/>
 NativeWind <br/>
-ESLint + Prettier Tailwind <br/>
 
 ---
 
