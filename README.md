@@ -27,13 +27,13 @@ NativeWind <br/>
 
 ## Próximos passos (Desafios)
 
-### Edição da memória <br/>
+Edição da memória <br/>
 
-### Link para compartilhar memória <br/>
+Link para compartilhar memória <br/>
 
-### Selecionar data da memória <br/>
+Selecionar data da memória <br/>
 
-### Layout responsivo
+Layout responsivo
 
 ---
 
