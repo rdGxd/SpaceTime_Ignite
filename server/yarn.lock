@@ -226,14 +226,14 @@
   dependencies:
     fast-json-stringify "^5.7.0"
 
-"@fastify/jwt@^6.7.1":
-  version "6.7.1"
-  resolved "https://registry.yarnpkg.com/@fastify/jwt/-/jwt-6.7.1.tgz#7ebbb7844eecf5bd4da12a878a8d0b1ccb28413e"
-  integrity sha512-pvRcGeyF2H1U+HXaxlRBd6s1y99vbSZjhpxTWECIGIhMXKRxBTBSUPRF7LJGONlW1/pZstQ0/Dp/ZxBFlDuEnw==
+"@fastify/jwt@^7.2.3":
+  version "7.2.3"
+  resolved "https://registry.yarnpkg.com/@fastify/jwt/-/jwt-7.2.3.tgz#0f0b9006fb22ef288a2d44512a2722cc98c890fa"
+  integrity sha512-UPHS7E6tmDWMYspq9znKZ54NwN0F+vcQ9e8okkl4iE+bDMaWCoPChL/lUmKLFepU6/Van3grjshmNviQ8oLVwA==
   dependencies:
     "@fastify/error" "^3.0.0"
     "@lukeed/ms" "^2.0.0"
-    fast-jwt "^2.0.0"
+    fast-jwt "^3.0.0"
     fastify-plugin "^4.0.0"
     steed "^1.1.3"
 
@@ -1375,11 +1375,12 @@ fast-json-stringify@^5.7.0:
     fast-uri "^2.1.0"
     rfdc "^1.2.0"
 
-fast-jwt@^2.0.0:
-  version "2.2.3"
-  resolved "https://registry.yarnpkg.com/fast-jwt/-/fast-jwt-2.2.3.tgz#c9bc42387f04368d2d36971eb9db03e5766a706f"
-  integrity sha512-ziANDWUZpgUyE+A8YAkauVnGa/XXJGEXC1H3qXAYnT8v4Et3EsC8Zuvw8ljiqDgRearw9Wy+Q/Miw5x1XmPJTA==
+fast-jwt@^3.0.0:
+  version "3.3.2"
+  resolved "https://registry.yarnpkg.com/fast-jwt/-/fast-jwt-3.3.2.tgz#08812282cd9ca0d1f7060987d3e527f84e364f88"
+  integrity sha512-H+JYxaFy2LepiC1AQWM/2hzKlQOWaWUkEnu/yebhYu4+ameb3qG77WiRZ1Ct6YBk6d/ESsNguBfTT5+q0XMtKg==
   dependencies:
+    "@lukeed/ms" "^2.0.1"
     asn1.js "^5.4.1"
     ecdsa-sig-formatter "^1.0.11"
     mnemonist "^0.39.5"
